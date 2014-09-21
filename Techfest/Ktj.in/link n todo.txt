@@ -1,0 +1,38 @@
+http://www.ktj.in/#Open_Soft
+
+Team Id : 404060
+suvozit mya02081988 www.ktj.in
+
+
+Compulsory (25% of total weightage):
+* Stress testing
+* Documentation (soft copy)
+* Bugs present.
+* USP.
+
+Elective Any three for prelims and any six for finals:
+* Utility.
+* Portability and ease of distribution.
+* Algorithm.
+* User friendly.
+* How far is the software able to achieve its objective?
+* How easily can a new user add extra features?
+* Resources used.
+
+Stage 1: upload a single zipped folder (<= 5MB)
+    * Source code
+    * The end user version
+    * instruction.pdf - installation instructions
+    * req.pdf - bare minimum software and hardware requirements 
+    * PDF - three elective parameters 
+    * PDF - objectives of the software (2 pages at maximum)
+
+
+svt Stsge2
+- network
+- new army
+- camera
+- castle taken
+
+
+

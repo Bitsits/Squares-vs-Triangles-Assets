@@ -1,0 +1,13 @@
+Category: games
+
+Sub-category: action + adventure 
+
+Detailed description:
+Squares Vs Triangles is a war between the Squares and the Triangles. Drag the Sqauares army to move. Reach the enemy Triangles' castle before it reches yours. Different weapons used in the games are bows and arrows, ninja blades and bazooka. Solve all 15 levels.
+Music: Track "Marching" from Album "MU.S.GA [Music for Strategy Games] EP" by PILL.
+
+Product ID: 93c6c586-2773-e011-81d2-78e7d1fa76f8
+
+Deep link: http://windowsphone.com/s?appid=93c6c586-2773-e011-81d2-78e7d1fa76f8
+
+Keywords: war, fight, square, triangle, attractive, bonus, levels, castle
